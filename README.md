@@ -1,4 +1,7 @@
 monitorSystem
 ## monitor the vm info over xen hypervisor by libvirt api
 
-wiki page中有*libvmi*和*libvirt*两套库函数的基本说明。
+## wiki pageb包含的技术文档
+* libvmi 库函数的说明和基本功能和使用。
+* libvirt 库函数的说明和基本功能和使用。
+* xen 虚拟机的搭建详细步骤。
